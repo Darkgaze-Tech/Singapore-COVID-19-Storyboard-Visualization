@@ -1,4 +1,4 @@
-# Singapore-COVID-19-Storyboard-Visualization
+# Singapore COVID-19 Storyboard Visualization
 
 ### Storypoint 1 - Overview
 <img src="Storypoint 1.png">
